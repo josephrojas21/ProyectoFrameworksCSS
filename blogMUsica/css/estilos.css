@@ -1,3 +1,14 @@
+
+.Blog{
+  height: 100%;
+  width: 100%;
+  background: #520000;
+}
+.encabezado{
+  padding-top: 0.5%;
+  margin-top:  0;
+  background-color: white;
+}
 .logo-img{
   width: 100px;
 }
