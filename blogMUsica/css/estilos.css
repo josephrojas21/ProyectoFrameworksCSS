@@ -1,14 +1,23 @@
-
+div{
+  border: solid black 1px;
+}
 .Blog{
   height: 100%;
   width: 100%;
   background: #520000;
 }
 .encabezado{
+  width: 75%;
   padding-top: 0.5%;
-  margin-top:  0;
   background-color: white;
+  margin: 0 auto;
 }
 .logo-img{
   width: 100px;
+}
+.reded-sociales{
+  float: left;
+}
+.redes-sociales img{
+  width: 50px;
 }
