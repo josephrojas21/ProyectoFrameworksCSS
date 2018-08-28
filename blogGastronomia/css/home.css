@@ -1,0 +1,13 @@
+div{
+  border: solid black 1px;
+}
+body{
+  background:  url(../img/fondo.jpg) !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important ;
+  background-position: center!important;
+}
+
+.principal{
+  background-color: rgba(0, 102, 255, 0.32);
+}
