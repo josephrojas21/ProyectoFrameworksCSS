@@ -46,3 +46,32 @@
 #perfil{
   width: 50px;
 }
+
+/* media  */
+@media (max-width:760px)  {
+  .cont-buscar{
+    display: none;
+  }
+  .nav-barra{
+    flex-direction: column;
+  }
+  .redes-sociales{
+    margin-left: 13%;
+  }
+  h2{
+    font-size: 22px !important;
+  }
+  textarea{
+    width: 100% !important;
+  }
+  .icon{
+    width: 15%!important;
+  }
+  .text{
+    width: 85%!important;
+  }
+  #perfil{
+    width: 40px;
+
+  }
+}
