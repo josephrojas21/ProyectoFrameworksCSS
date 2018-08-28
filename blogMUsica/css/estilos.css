@@ -4,6 +4,7 @@
   width: 100%;
   background: #520000;
 }
+/* Encabezado */
 .encabezado{
   width: 75%;
   padding-top: 0.5%;
@@ -14,12 +15,16 @@
   width: 200px;
   background: white;
 }
-.reded-sociales{
-  float: left;
+.redes-sociales{
+  padding-top: 30%;
+
 }
 .redes-sociales img{
   width: 50px;
 }
+
+
+
 /* contenido */
 .contenido{
   padding-top: 2%;
@@ -40,5 +45,4 @@
 }
 #perfil{
   width: 50px;
-
 }
