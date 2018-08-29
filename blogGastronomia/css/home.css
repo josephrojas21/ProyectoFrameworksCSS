@@ -1,6 +1,4 @@
-div{
-  border: solid black 1px;
-}
+
 body{
   background:  url(../img/fondo.jpg) !important;
   background-repeat: no-repeat !important;
@@ -9,5 +7,5 @@ body{
 }
 
 .principal{
-  background-color: rgba(0, 102, 255, 0.32);
+  background-color: rgba(245, 139, 0, 0.38);
 }
