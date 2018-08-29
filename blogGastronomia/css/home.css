@@ -1,4 +1,6 @@
-
+div{
+  border: solid black 1px;
+}
 body{
   background:  url(../img/fondo.jpg) !important;
   background-repeat: repeat !important;
