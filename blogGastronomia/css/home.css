@@ -1,11 +1,15 @@
 
 body{
   background:  url(../img/fondo.jpg) !important;
-  background-repeat: no-repeat !important;
+  background-repeat: repeat !important;
   background-size: cover !important ;
   background-position: center!important;
 }
 
 .principal{
   background-color: rgba(245, 139, 0, 0.38);
+}
+
+.column-izq{
+  background-color:rgba(255, 189, 102, 1);
 }
