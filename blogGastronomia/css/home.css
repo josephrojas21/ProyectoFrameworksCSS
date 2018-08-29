@@ -7,6 +7,9 @@ body{
   background-size: cover !important ;
   background-position: center!important;
 }
+hr{
+  color: black;
+}
 
 .principal{
   background-color: rgba(245, 139, 0, 0.38);
@@ -14,4 +17,17 @@ body{
 
 .column-izq{
   background-color:rgba(255, 189, 102, 1);
+}
+
+.column-der{
+  background-color: rgba(255, 231, 112, 1);
+}
+.comentarios{
+  background-color: rgba(0, 47, 255, 0);
+}
+
+
+#perfil{
+  width: 10%;
+
 }
