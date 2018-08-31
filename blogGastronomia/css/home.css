@@ -1,10 +1,12 @@
 
 body{
   background:  url(../img/fondo.jpg) !important;
-  background-repeat: repeat !important;
+  background-repeat: no-repeat !important;
   background-size: cover !important ;
-  background-position: center!important;
+  background-position: center !important;
+  background-attachment: fixed!important;
 }
+
 
 /* modificaciones a contenedores  */
 .principal{
