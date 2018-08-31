@@ -1,6 +1,4 @@
-div{
-  border: solid black 1px;
-}
+
 body{
   background:  url(../img/fondo.jpg) !important;
   background-repeat: repeat !important;
@@ -25,7 +23,9 @@ hr{
 .comentarios{
   background-color: rgba(0, 47, 255, 0);
 }
-
+#publi2{
+  width: 100%;
+}
 
 #perfil{
   width: 10%;
