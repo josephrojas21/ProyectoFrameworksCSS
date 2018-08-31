@@ -5,16 +5,16 @@ body{
   background-size: cover !important ;
   background-position: center!important;
 }
-hr{
-  color: black;
-}
 
+/* modificaciones a contenedores  */
 .principal{
   background-color: rgba(245, 139, 0, 0.38);
+
 }
 
 .column-izq{
   background-color:rgba(255, 189, 102, 1);
+  color: rgba(182, 32, 52, 1);
 }
 
 .column-der{
@@ -23,6 +23,8 @@ hr{
 .comentarios{
   background-color: rgba(0, 47, 255, 0);
 }
+
+/* arreglos de detalles especificos */
 #publi2{
   width: 100%;
 }
@@ -30,4 +32,12 @@ hr{
 #perfil{
   width: 10%;
 
+}
+#titulo{
+  border-right: solid rgba(255, 255, 255, 0.59) 1px;
+  margin-bottom: 3%;
+}
+#contenido{
+  border-top: solid rgba(255, 255, 255, 0.59) 1px;
+  padding-top: 3%;
 }
